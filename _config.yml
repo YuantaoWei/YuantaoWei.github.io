@@ -1,0 +1,37 @@
+title: "Yuantao Wei"
+name: "Yuantao Wei"
+description: "M.S. Student in Industrial Engineering | University of Washington"
+url: "https://yuantaowei.github.io"
+baseurl: ""
+locale: "en-US"
+timezone: "America/Los_Angeles"
+
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "default"
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Yuantao Wei"
+  bio: "M.S. student at UW focused on optimization, simulation, and machine learning."
+  avatar: "/assets/images/headshot.jpg"
+  location: "Seattle, WA"
+  email: "yuantw2@uw.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yuantw2@uw.edu"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/Yuantao_Wei_CV.pdf"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true

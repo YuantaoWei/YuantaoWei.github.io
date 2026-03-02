@@ -25,7 +25,14 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
-        bundler-cache: true
+        bundler-cache: false
+
+    - name: Install Ruby dependencies
+      run: |
+        bundle config set path vendor/bundle
+        bundle config set deployment false
+        bundle lock --add-platform x86_64-linux
+        bundle install --jobs 4 --retry 3
 
     - name: Setup Pages
       id: pages

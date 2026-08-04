@@ -8,6 +8,7 @@
 
 # Generated site output
 public/
+_site/
 
 # Hugo resources (processed assets)
 resources/
@@ -27,6 +28,17 @@ hugo_stats.json
 
 # Dependencies
 node_modules/
+
+# Jekyll cache
+.jekyll-cache/
+.jekyll-metadata
+
+# IDE settings
+.idea/
+
+# Accidentally generated SSH key filenames
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
 
 # ============================================================================
 # Environment & Configuration

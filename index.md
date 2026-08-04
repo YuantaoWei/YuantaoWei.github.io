@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-I am **Yuantao Wei**, an M.S. student in Industrial Engineering at the University of Washington (expected June 2026).
+I am **Yuantao Wei**, an incoming Ph.D. student in the Department of Industrial Engineering at the University of Washington, advised by [Dr. Shuai Huang](https://www.shuaihuang.info/).
 
 My work focuses on building practical, data-driven methods for complex decision systems at the intersection of:
 - Digital Twin

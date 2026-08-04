@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Yuantao Wei Headshot Placeholder</title>
+  <desc id="desc">Temporary placeholder image for homepage headshot.</desc>
+  <rect width="640" height="640" fill="#eef2f7"/>
+  <circle cx="320" cy="230" r="110" fill="#c7d2e1"/>
+  <path d="M145 520c22-99 92-152 175-152s153 53 175 152" fill="#c7d2e1"/>
+  <text x="320" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#5b6472">Replace with your headshot</text>
+</svg>

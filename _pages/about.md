@@ -4,13 +4,17 @@ permalink: /about/
 ---
 
 ## Bio
-I am an M.S. student in Industrial Engineering at the University of Washington (Sep 2024 - Jun 2026 expected), with research and industry experience in optimization, machine learning, simulation, and AI systems.
+I am Ph.D. student in Industrial Engineering at the University of Washington (Sep 2026 - Jun 2030 expected), with research and industry experience in optimization, machine learning, simulation, and AI systems.
 
 My goal is to develop reliable algorithmic solutions that connect rigorous modeling with real-world deployment.
 
 ## Education
 **University of Washington**  
-M.S. in Industrial Engineering, Sep 2024 - Jun 2026 (Expected)  
+Ph.D. in Industrial Engineering, Sep 2026 - Jun 2030   
+GPA: -- /4.0
+
+**University of Washington**  
+M.S. in Industrial Engineering, Sep 2024 - Jun 2026   
 GPA: 3.73/4.0
 
 Relevant coursework: Machine Learning, Integer Programming, Linear Programming, Data Analysis, Simulation and Modeling, Data Structures, Supply Chain Management.

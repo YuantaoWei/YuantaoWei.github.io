@@ -17,14 +17,11 @@ plugins:
 
 author:
   name: "Yuantao Wei"
-  bio: "M.S. student at UW focused on optimization, simulation, and machine learning."
+  bio: "Ph.D. student at UW focused on optimization, simulation, and machine learning."
   avatar: "/assets/images/headshot.jpg"
   location: "Seattle, WA"
   email: "yuantw2@uw.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:yuantw2@uw.edu"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/Yuantao_Wei_CV.pdf"

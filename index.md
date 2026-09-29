@@ -35,10 +35,9 @@ Three themes guide this vision: **1) Human-Centric AI.** Human behavior introduc
 
 ## News
 
-- **2026:** Began Ph.D. study in Industrial Engineering at the University of Washington under the supervision of Dr. Shuai Huang.
-- **2026:** Received an M.S. in Industrial Engineering from the University of Washington.
-- **2026:** *Causal Learning Should Embrace the Wisdom of the Crowd* is under review.
-- **2025:** Completed first-author research on LLM-assisted expert-knowledge elicitation and multi-agent urban evacuation simulation.
+- **2026.9.25:** Our paper "Mixture-of-Chains: Learning Causal Graphs from Human Knowledge" was accepted by NeurIPS 2026.
+- **2026.9.15:** Began Ph.D. study in Industrial Engineering at the University of Washington under the supervision of Dr. Shuai Huang.
+- **2026.6.15:** Received an M.S. in Industrial Engineering from the University of Washington.
 
 ## Skills and Activities
 

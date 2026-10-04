@@ -6,7 +6,7 @@ permalink: /publications/
 ## Accepted Conference Papers
 
 [1] **Mixture-of-Chains: Learning Causal Graphs from Human Knowledge.**<br>
-<u>Yuantao Wei</u>\*, Huiling Liao\*, Ryan F. Lin, Xiaoning Qian, and Shuai Huang.<br>
+<u>Yuantao Wei</u>\*, Huiling Liao\*, Ryan F. Lin\*, Xiaoning Qian, and Shuai Huang.<br>
 Status: Accepted at *NeurIPS 2026*.
 
 ## Papers Under Review
